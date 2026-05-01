@@ -6,4 +6,68 @@
 
 ---
 
-近期整理了2021年NIPS与推荐系统相关的几篇文章，涉及内容融合、冷启动迁移、跨平台推荐、多重嘈杂反馈下的推荐、AB实验、路线推荐、上下文推荐、社交推荐、迁移数据推荐等。 一般来说，NIPS严格契合推荐系统的文章不多，但如果不只看商业推荐系统，考虑广义推荐场景的话，今年就有路径推荐、数据推荐、跨平台推荐等有意思的场景，可以说含金量很高，创意很足。这些非常规场景的推荐，也能给商业推荐系统带来一些启发，欢迎大家浏览评论以及交流。 1.On Component Interactions in Two-Stage Recommender Systems Jiri Hron · Karl Krauth · Michael Jordan · Niki Kilbertus 两阶段推荐系统中的内容交互 2.Leveraging Distribution Alignment via Stein Path for Cross-Domain Cold-Start Recommendation Weiming Liu · Jiajie Su · Chaochao Chen · Xiaolin Zheng 通过Stein路径利用分布对齐进行跨域冷启动推荐 3.Exploiting Data Sparsity in Secure Cross-Platform Social Recommendation Jinming Cui · Chaochao Chen · Lingjuan Lyu · Carl Yang · Wang Li 利用数据稀疏性实现安全的跨平台社交推荐 4.Curriculum Disentangled Recommendation with Noisy Multi-feedback Hong Chen · Yudong Chen · Xin Wang · Ruobing Xie · Rui Wang · Feng Xia · Wenwu Zhu 嘈杂多反馈的课程解耦推荐 5.A/B Testing for Recommender Systems in a Two-sided Marketplace Preetam Nandy · Divya Venugopalan · Chun Lo · Shaunak Chatterjee 双向市场中推荐系统的A/B测试 6.NeuroMLR: Robust & Reliable Route Recommendation on Road Networks Jayant Jain · Vrittika Bagadia · Sahil Manchanda · Sayan Ranu NeuroMLR:稳健可靠的道路网络路线推荐 7.Contextual Recommendations and Low-Regret Cutting-Plane Algorithms Sreenivas Gollapudi · Guru Guruganesh · Kostas Kollias · Pasin Manurangsi · Renato Leme · Jon Schneider 背景推荐和低遗憾的切割平面算法 8.Minimizing Polarization and Disagreement in Social Networks via Link Recommendation Liwang Zhu · Qi Bao · Zhongzhi Zhang 通过链接推荐最小化社交网络中的两极分化和分歧 9.Scalable Neural Data Server: A Data Recommender for Transfer Learning Tianshi Cao · Sasha (Alexandre) Doubov · David Acuna · Sanja Fidler 可扩展的神经数据服务器:迁移学习的数据推荐
+近期整理了2021年NIPS与推荐系统相关的几篇文章，涉及内容融合、冷启动迁移、跨平台推荐、多重嘈杂反馈下的推荐、AB实验、路线推荐、上下文推荐、社交推荐、迁移数据推荐等。
+
+一般来说，NIPS严格契合推荐系统的文章不多，但如果不只看商业推荐系统，考虑广义推荐场景的话，今年就有路径推荐、数据推荐、跨平台推荐等有意思的场景，可以说含金量很高，创意很足。这些非常规场景的推荐，也能给商业推荐系统带来一些启发，欢迎大家浏览评论以及交流。
+
+1.On Component Interactions in Two-Stage Recommender Systems
+
+Jiri Hron · Karl Krauth · Michael Jordan · Niki Kilbertus
+
+两阶段推荐系统中的内容交互
+
+
+2.Leveraging Distribution Alignment via Stein Path for Cross-Domain Cold-Start Recommendation
+
+Weiming Liu · Jiajie Su · Chaochao Chen · Xiaolin Zheng
+
+通过Stein路径利用分布对齐进行跨域冷启动推荐
+
+
+3.Exploiting Data Sparsity in Secure Cross-Platform Social Recommendation
+
+Jinming Cui · Chaochao Chen · Lingjuan Lyu · Carl Yang · Wang Li
+
+利用数据稀疏性实现安全的跨平台社交推荐
+
+
+4.Curriculum Disentangled Recommendation with Noisy Multi-feedback
+
+Hong Chen · Yudong Chen · Xin Wang · Ruobing Xie · Rui Wang · Feng Xia · Wenwu Zhu
+
+嘈杂多反馈的课程解耦推荐
+
+
+5.A/B Testing for Recommender Systems in a Two-sided Marketplace
+
+Preetam Nandy · Divya Venugopalan · Chun Lo · Shaunak Chatterjee
+
+双向市场中推荐系统的A/B测试
+
+
+6.NeuroMLR: Robust & Reliable Route Recommendation on Road Networks
+
+Jayant Jain · Vrittika Bagadia · Sahil Manchanda · Sayan Ranu
+
+NeuroMLR:稳健可靠的道路网络路线推荐
+
+
+7.Contextual Recommendations and Low-Regret Cutting-Plane Algorithms
+
+Sreenivas Gollapudi · Guru Guruganesh · Kostas Kollias · Pasin Manurangsi · Renato Leme · Jon Schneider
+
+背景推荐和低遗憾的切割平面算法
+
+
+8.Minimizing Polarization and Disagreement in Social Networks via Link Recommendation
+
+Liwang Zhu · Qi Bao · Zhongzhi Zhang
+
+通过链接推荐最小化社交网络中的两极分化和分歧
+
+
+9.Scalable Neural Data Server: A Data Recommender for Transfer Learning
+
+Tianshi Cao · Sasha (Alexandre) Doubov · David Acuna · Sanja Fidler
+
+可扩展的神经数据服务器:迁移学习的数据推荐

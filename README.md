@@ -1,4 +1,4 @@
-# RSPapers
+# PaperNotes
 
 精选推荐系统、因果推断、大模型×搜广推方向的论文解读与研究总结，同步自知乎专栏 [@郭珣](https://www.zhihu.com/people/guoxun)。
 

@@ -178,7 +178,7 @@ SASRec: 基于自注意力的序列推荐模型（传统 DLRM）
 TIGER: Google 提出的基于 Semantic ID 的生成式推荐
 LC-Rec: 基于 Semantic ID 的改进方法
 ReaRec: 基于推理增强的推荐方法
-OneRec-V2: 阿里的 Semantic ID + GBPO 优化器方案
+OneRec-V2: 快手的 Semantic ID + GBPO 优化器方案
 OneRec-SAGE: 将 SAGE 替换 OneRec 的 GBPO 优化器
 TextRec (RecLLM): 使用原生文本 + SAGE 优化器的完整方案
 
